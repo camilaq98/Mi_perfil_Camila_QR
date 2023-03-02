@@ -4,7 +4,7 @@
 ---
 ***INGENIERA DE SISTEMAS Y COMPUTACIÓN***
 
-***IBM Integration BUS Learner Banco Popular***
+***IBM Integration BUS Learner | Banco Popular***
 
 <img src="image/profile.jpg" alt="Employee data" width="27" height="27" title="Employee Data title"> ***SOBRE MÍ***
 
