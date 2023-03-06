@@ -1,4 +1,6 @@
-<img src="image/imgCQR.jpg" alt="Employee data" width="140" height="180" title="Employee Data title">
+<p align="center">
+  <img src="image/imgCQR.jpg" alt="Employee data" width="140" height="180" title="Employee Data title">
+</p>
 
 ***<h1 align="center">CAMILA QUINTERO ROJAS</h1>*** 
 
